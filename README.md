@@ -14,6 +14,7 @@ The game is built entirely with HTML, CSS, and vanilla JavaScript. It has no ext
 ## Features
 
 ### Create Your Organization
+<img width="1896" height="1032" alt="image" src="https://github.com/user-attachments/assets/f9676245-e5bb-496b-95be-4e7198a8d1ef" />
 
 * Choose a team name and tag
 * Select a region
@@ -23,6 +24,7 @@ The game is built entirely with HTML, CSS, and vanilla JavaScript. It has no ext
 * Start from the bottom of a 24-team world ranking
 
 ### Roster Management
+<img width="1904" height="1080" alt="image" src="https://github.com/user-attachments/assets/33edd937-d75d-4520-8a9b-9dc80070ad81" />
 
 * Manage five starting players and up to two substitutes
 * Build a balanced lineup around different player roles
@@ -40,6 +42,7 @@ The game is built entirely with HTML, CSS, and vanilla JavaScript. It has no ext
 * Renew contracts, change player status, compare players, and manage the transfer list
 
 ### Academy
+<img width="1832" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdbc5240-32f0-4048-95dd-aead58367c12" />
 
 * Develop up to 10 academy players between the ages of 14 and 18
 * Choose one prospect from three candidates at the start of a new season
@@ -49,6 +52,7 @@ The game is built entirely with HTML, CSS, and vanilla JavaScript. It has no ext
 * Make decisions when players reach the academy age limit
 
 ### Staff
+<img width="1904" height="1080" alt="image" src="https://github.com/user-attachments/assets/61ba633c-47ff-4b97-b0bb-5b9b50142ec0" />
 
 Five staff members provide permanent bonuses to different areas of the club:
 
@@ -59,6 +63,7 @@ Five staff members provide permanent bonuses to different areas of the club:
 * **Analyst** — reveals parts of the opponent's tactical setup before a match
 
 ### Transfers and Contracts
+<img width="1900" height="1080" alt="image" src="https://github.com/user-attachments/assets/800e2667-f5e2-4183-8acb-285577133450" />
 
 * Sign free agents
 * Scout players from other organizations
@@ -69,6 +74,7 @@ Five staff members provide permanent bonuses to different areas of the club:
 * Automatically place eligible young signings in the academy when required
 
 ### Training System
+<img width="1892" height="1080" alt="image" src="https://github.com/user-attachments/assets/a94b049a-69ae-4669-b736-4fcc158aa33b" />
 
 Distribute exactly 100% of the weekly training workload between:
 
@@ -82,6 +88,7 @@ Distribute exactly 100% of the weekly training workload between:
 Player growth depends on age, potential, current level, staff quality, and training priorities.
 
 ### Tactical System
+<img width="1900" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9a54444-9ed2-4b1e-ada5-e0e758c31f12" />
 
 Build a tactical setup before every match:
 
@@ -96,6 +103,7 @@ Build a tactical setup before every match:
 Tactical choices interact with the opponent's strategy. AI teams generate their own tactics, while the analyst can reveal selected parameters before the match.
 
 ### Maps and Veto
+<img width="1892" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd847007-f7e3-4c30-aa80-1569414bbb15" />
 
 The game includes five maps with different tactical profiles:
 
