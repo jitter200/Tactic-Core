@@ -4,6 +4,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-native-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-native-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?style=flat-square\&logo=javascript\&logoColor=080A0B)
+<img width="1060" height="608" alt="image" src="https://github.com/user-attachments/assets/c1984ca9-fd1b-400b-a0b1-aecda11c516d" />
 
 **TACTIC CORE** is a single-player browser-based esports management simulator. Create your own organization, build a competitive roster, develop young talent, prepare tactics, manage finances, and fight your way to the top of the world ranking.
 
